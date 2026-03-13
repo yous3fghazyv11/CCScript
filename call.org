@@ -1,0 +1,71 @@
+* Example call
+This is going to be an example of what an actual call would look like.
+
+** format info
+in this text i will be using the following:
+- normal text: for the agent's questions
+- /italic text/: for the prospects replies, i will also prefix it with [P]
+- =coded text=: for my notes
+
+** Call
+Market value: $250,000
+
+Hi [prospect name]?
+
+P: /who's this?/
+
+This is Alex, i was calling in regards to a property i believe you own on [street name], i was just reaching out to see if you might be open to get a cash offer on it?
+
+P: /Yeah I'm considering to sell it actually, but I'm not sure you guys will be able to afford it. And who are you working with btw?/
+
+Well, let me assure you, we can definitely afford it. I'm representing the cash buyers here, they're a group of private investors and they're few properties in your area right now; they took interest in your property. So i believe it has 3 bedrooms and 2 bathrooms, correct?
+
+=notice how i just skipped to the next question=
+
+P: /yup that's right/
+
+okay, so have you done any repairs or renovations that you would like me to know about?
+
+P: /blah blah blah, they're gonna yap about how much they spent on it in the last 5 years/
+
+Alright perfect, so is there anything that i need to be spending money on right now in the property?
+
+P: /No, it's in a perfect condition/
+
+Got you, and do you currently live there? or is it rented out?
+
+P: /Yeah I live there/
+
+so if we agree on an offer, how soon you think you'll be able to get paid and walk away from that property/
+
+P: /I can do it yesterday if the number is right/
+
+Alright that's perfect. And how much are you asking for this house right now? what is the right number for you?
+
+P: /I would like to get $250,000 for it/
+
+And can i please ask you how did you come up with that price?
+
+P: /blah blah blah/
+
+yeah, fair, if i owned it i would like to get the highest number for it as well.
+
+So there's one thing that i would like to bring into your attention,so we're cash buyers, which means that we're paying all immediately in cash, which also means that —unlike realtors— there will be no realtor fees or closing coasts, so basically whatever your asking price is, that is going to be what goes in your pocket when you're walking away from that property
+
+So, [prospect name], what is the least you are eager to get in-cash when walking away?
+
+=Notice how i didn't say that we take the property as it is and all of that stuff, because he said it's in a perfect condition, so it's useless to bring that up right now=
+
+P: /The least i can go is $220,000/
+
+Alright fair! That sounds reasonable to me.
+
+Alright perfect, That is pretty much all that i need.... actually I'm kind of curios about something. so i know i called with a cash offer for the property, but why did you consider getting rid of it?
+
+P: /valid reason (let's say tired of being a land lord or moving)/
+
+Yeah i get you.
+
+Alright [prospect name], that's all i need, let me please confirm with you the full address of the property, the full name, the phone number.
+
+So I'm gonna pass this to our acquisition, they're gonna do the numbers and get back to you as soon as possible with a cash offer. Have a great rest of your day.
