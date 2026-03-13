@@ -7,16 +7,18 @@ in this text i will be using the following:
 - /italic text/: for rebuttals (stuff you reply with when you face an objections)
 - *bold text*: for prospects objections (like *not interested* or *what's your offer*, basically stuff that isn't normal for them to say and that we need to handle)
 - _underlined text_: for stuff that should be replaced in an actual call
-- =coded words=: for my own notes
+- =coded words=: for notes
 
 ** Intro
 Hi _prospect name_?
 
 This is Alex, i was calling in regards to a property i believe you own on _street name_, i was just reaching out to see if you might be open to get a cash offer on it?
+=be confident, energetic and curious=
 
 *not interested*
 
 /alright so do you happen to have any other properties that you might consider selling, right now or in the near future?/
+=don't push, we're not sales, ask politely and show curiosity=
 
 *not right now*
 
@@ -25,10 +27,11 @@ This is Alex, i was calling in regards to a property i believe you own on _stree
 *what's your offer?*
 
 /So generally these calls take about five to seven minutes, and i wanna learn more about the property and your specific situation to be able to give you a well educated offer, and if you're a good fit for what we specialize in i will let you know at the end of the call as well as setting up a followup call to give you an offer/
+=So this establishes  the structure of the call already, they know what they're about to go through, and they will only continue of they're serious about it, this saves you time by filtering window shoppers (people who just want to hear and offer)=
 
 *who are u, how did you get that info*
 
-/I'm representing the cash buyers here, they're a group of private investors and they're buying many properties in your area right now, ; they took interest in your property, so they wanted me to call and see if you would consider selling it anytime soon./
+/I'm representing the cash buyers here, they're a group of private investors and they're few properties in your area right now, ; they took interest in your property, so they wanted me to call and see if you would consider selling it anytime soon./
 
 *Where are you located*
 
@@ -38,22 +41,22 @@ This is Alex, i was calling in regards to a property i believe you own on _stree
 Q1# so i believe it has 3 bedrooms and 2 bathrooms, correct?
 
 Q2# and have you done any repairs or renovations that you would like me to know about?
+=Let them talk, that's good, the more you open up, the more they reveal stuff you can use against them later=
 
 Q3# alright and is there anything that i need to be spending money on right now in the property?
 
 *tell me your offer first* / *I'm not sharing any details*
 
-/alright _prospect name_, so i believe as you mentioned you might want to sell your house right?/
-=yeah=
-/and obviously you're not willing to get rid of just for nothing/
-=ofc=
-/and you know that in order for someone to give you an offer, it can't just be a random number and it has to be based on evidence, unless it's a big waste of your time/
-=yeah ofc=
-/so the thing is, without basic property details, I can't responsibly estimate anything./
-/just so I don’t waste your time/
-/Can you give me a rough break down about the condition?/
-~you didn't do your homework~
+=This is a huge sign that they just wanna hear an offer, handle this carefully. But honestly if they said this, the call is probably hopeless=
+
+/alright _prospect name_, so i believe as you mentioned you might consider selling the house, /and obviously you're not willing to get rid of just for nothing, and you know that in order for someone to give you an offer, it can't just be a random number and it has to be based on evidence, unless it's a big waste of your time/
+
+/so the thing is, without basic property details, I can't responsibly estimate anything./ /just so I don’t waste your time/, /Can you give me a rough break down about the condition?/
+
+*you didn't do your homework*
+
 /yes we did our homework, however I just like to confirm the info i got in person with you to make sure our offer is reasonable/
+
 ** occupancy
 so do you currently live there? or is it rented out?
 ~why is that important~
