@@ -6,13 +6,12 @@ in this text i will be using the following:
 - normal text: for the normal agent speech not objection handling (think of stuff like the intro for example or asking about the condition, asking price, etc..)
 - /italic text/: for rebuttals (stuff you reply with when you face an objections)
 - *bold text*: for prospects objections (like *not interested* or *what's your offer*, basically stuff that isn't normal for them to say and that we need to handle)
-- _underlined text_: for stuff that should be replaced in an actual call
 - =coded words=: for notes
 
 ** Intro
-Hi _prospect name_?
+Hi [prospect name]?
 
-This is Alex, i was calling in regards to a property i believe you own on _street name_, i was just reaching out to see if you might be open to get a cash offer on it?
+This is Alex, i was calling in regards to a property i believe you own on [street name], i was just reaching out to see if you might be open to get a cash offer on it?
 =be confident, energetic and curious=
 
 *not interested*
@@ -49,9 +48,9 @@ Q3# alright and is there anything that i need to be spending money on right now 
 
 =This is a huge sign that they just wanna hear an offer, handle this carefully. But honestly if they said this, the call is probably hopeless=
 
-/alright _prospect name_, so i believe as you mentioned you might consider selling the house, /and obviously you're not willing to get rid of just for nothing, and you know that in order for someone to give you an offer, it can't just be a random number and it has to be based on evidence, unless it's a big waste of your time/
+/alright [prospect name], so i believe as you mentioned you might consider selling the house, and obviously you're not willing to get rid of just for nothing, and you know that in order for someone to give you an offer, it can't just be a random number and it has to be based on evidence, unless it's a big waste of your time/
 
-/so the thing is, without basic property details, I can't responsibly estimate anything./ /just so I don’t waste your time/, /Can you give me a rough break down about the condition?/
+/so the thing is, without basic property details, I can't responsibly estimate anything. So just so I don’t waste your time, Can you give me a rough break down about the condition?/
 
 *you didn't do your homework*
 
@@ -59,27 +58,54 @@ Q3# alright and is there anything that i need to be spending money on right now 
 
 ** occupancy
 so do you currently live there? or is it rented out?
-~why is that important~
+
+*why is that important*
+
 /that's a good question frankly, it's because it's gonna affect the closing time, so in case it's rented for example, we're gonna need to move the tenants out first and stuff like that, so i just wanna make sure that the closing is going to be smooth and we will be able to do it asap/
+
 ** closing
 so if we agree on an offer, how soon you think you'll be able to get paid and walk away from that property
+
 =we can do maximum 3 months=
+
 ** asking price
-and how much are you asking for this house right now
-~high asking price~
+and how much are you asking for this house right now?
+
+=asking price needs to be lower than the market value=
+
+*high asking price*
+
 /so how did you come up with that price?/
-~after whatever they say~
-/yeah, fair, if i owned it i would like to get the highest number for it as well/. /but, so let me just tell you that we take the property as it is, which means that you're not going to spend anything updating the property/. /so with all of that in mind, what would you call a bottom line for this property?/
-~still high~
+
+=after whatever they say=
+
+/yeah, fair, if i owned it i would like to get the highest number for it as well. But, so let me just tell you that we take the property as it is, which means that you're not going to spend anything updating the property/. /so with that in mind, what would you call a bottom line for this property?/
+
+*still high*
+
+/Alright fair! That sounds reasonable to me. So there's also one more thing that i would like to bring into your attention, so we're cash buyers, which means that we're paying all immediately in cash, which also means that —unlike realtors— there will be no *realtor fees* or *closing coasts*, so basically whatever your asking price is, that is going to be what goes in your pocket when you're walking away from that property/
+
+/So, [prospect name], what is the least you are eager to get in-cash when walking away?/
+
 ** motivation
-alright perfect, but I'm kind of curios about something.
+Alright perfect, That is pretty much all that i need....
+
+But actually I'm kind of curios about something.
+
 so i know i called with a cash offer for the property, but why did you consider getting rid of it?
-~money~
-/yea ofc the money is the most important factor and all, however,/
-  =occupied:= /this is where you live, the property's in a decent condition, so apart from the money factor and me calling you ofc, what makes you open to do so?/
-  =rented:= /this is a property that you rent out and you're already making a cash flow passively out of it, so apart from the money factor and me calling you ofc, what makes you open to do so?/
-  =vacant:= /since the property is vacant & i can see it is in a really decent area, what made you open to selling while you can rent it out and make some income off of that/
-~still money~
+
+*money*
+
+yea ofc the money is the most important factor and all, however
+
+- *occupied:* /this is where you live, the property's in a decent condition, so apart from the money factor and me calling you ofc, what makes you open to do so?/
+- *rented:* /this is a property that you rent out and you're already making a cash flow passively out of it, so apart from the money factor and me calling you ofc, what makes you open to do so?/
+- *vacant:* /since the property is vacant & i can see it is in a really decent area, what made you open to selling while you can rent it out and make some income off of that/
+
+*still money*
+
 /so do you have any future plans after selling the property?/
-~still no valid reason~
+
+*still no valid reason*
+
 /so we're looking for motivated sellers so i just wanted to make sure that you would def like to sell the house/
