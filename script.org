@@ -1,7 +1,8 @@
 * Script with everything going smoothly
 This script is going to be an example of a call where there are no objections at all. This is aimed to give an example of what smooth call would look like with no objections at all.
 
-** format info
+*format info:*
+
 in this text i will be using the following:
 - head lines: for specifying the context we're talking about
 - normal text: for the agents speech
@@ -16,6 +17,14 @@ Hi _prospect name_?
 This is Alex, i was calling in regards to a property i believe you own on _street name_, i was just reaching out to see if you might be open to get a cash offer on it?
 
 * Script with objections
+*format info:*
+
+in this text i will be using the following:
+- head lines: for specifying the context we're talking about
+- normal text: for the agents speech
+- /italic text/: for the prospects replies
+- _underlined text_: for stuff that should be replaced in an actual call
+
 ** Intro
 Hi _prospect name_?
 
