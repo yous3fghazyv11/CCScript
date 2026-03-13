@@ -7,11 +7,10 @@ in this text i will be using the following:
 - /italic text/: for rebuttals (stuff you reply with when you face an objections)
 - *bold text*: for prospects objections (like *not interested* or *what's your offer*, basically stuff that isn't normal for them to say and that we need to handle)
 - _underlined text_: for stuff that should be replaced in an actual call
+- =coded words=: for my own notes
 
 ** Intro
 Hi _prospect name_?
-
-/who's this?/
 
 This is Alex, i was calling in regards to a property i believe you own on _street name_, i was just reaching out to see if you might be open to get a cash offer on it?
 
@@ -25,28 +24,22 @@ This is Alex, i was calling in regards to a property i believe you own on _stree
 
 *what's your offer?*
 
-/generally these calls take about five to seven minutes, i wanna learn more about the property and your specific situation to be able to give you a well educated offer, and if you're a good fit for what we specialize in i will let you know at the end of the call as well as setting up a followup call to give you an offer/
+/So generally these calls take about five to seven minutes, and i wanna learn more about the property and your specific situation to be able to give you a well educated offer, and if you're a good fit for what we specialize in i will let you know at the end of the call as well as setting up a followup call to give you an offer/
 
 *who are u, how did you get that info*
 
-we got your info from the public records. I work with a group of investors; they took interest in your property, so they wanted me to call and see if you would consider selling it anytime soon.
+/I'm representing the cash buyers here, they're a group of private investors and they're buying many properties in your area right now, ; they took interest in your property, so they wanted me to call and see if you would consider selling it anytime soon./
 
 *Where are you located*
 
 =yet to be found an answer for=
 
 ** condition
-so i believe it has 3 bedrooms and 2 bathrooms, correct?
+Q1# so i believe it has 3 bedrooms and 2 bathrooms, correct?
 
-_____________________________________________________________
+Q2# and have you done any repairs or renovations that you would like me to know about?
 
-and have you done any repairs or renovations that you would like me to know about?
-
-_____________________________________________________________
-
-alright and is there anything that i need to be spending money on right now in the property?
-
-_____________________________________________________________
+Q3# alright and is there anything that i need to be spending money on right now in the property?
 
 *tell me your offer first* / *I'm not sharing any details*
 
