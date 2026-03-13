@@ -1,26 +1,45 @@
 * Intro
 Hi _prospect name_?
-~Who's this?~
-This is Alex, i was calling in regards to a property i believe you own on
-_street name_, i was just reaching out to see if you might be open to get a cash offer on it?
-~not interested~
-/alright so do you happen to have any other properties that you might consider selling?/
-~not right now~
-/No problem at all./
-/so if you were to sell at some point, is that something you would be thinking about months from now? years from now? or not really on your radar/
-~what's your offer~
+
+*Who's this?*
+
+This is Alex, i was calling in regards to a property i believe you own on _street name_, i was just reaching out to see if you might be open to get a cash offer on it?
+
+*not interested*
+
+/alright so do you happen to have any other properties that you might consider selling, right now or in the near future?/
+
+*not right now*
+
+/so if you were to sell at some point, is that something you would be thinking about months from now? years from now?/
+
+*what's your offer?*
+
 /generally these calls take about five to seven minutes, i wanna learn more about the property and your specific situation to be able to give you a well educated offer, and if you're a good fit for what we specialize in i will let you know at the end of the call as well as setting up a followup call to give you an offer/
-~who are u, how did you get that info~
+
+*who are u, how did you get that info*
+
 we got your info from the public records. I work with a group of investors; they took interest in your property, so they wanted me to call and see if you would consider selling it anytime soon.
+
+*Where are you located*
+
+=yet to be found an answer for=
+
 * condition
 so i believe it has 3 bedrooms and 2 bathrooms, correct?
-_________
+
+_____________________________________________________________
+
 and have you done any repairs or renovations that you would like me to know about?
-_________
+
+_____________________________________________________________
+
 alright and is there anything that i need to be spending money on right now in the property?
-_________
-~tell me your offer first~
-~I'm not sharing any details~
+
+_____________________________________________________________
+
+*tell me your offer first* / *I'm not sharing any details*
+
 /alright _prospect name_, so i believe as you mentioned you might want to sell your house right?/
 =yeah=
 /and obviously you're not willing to get rid of just for nothing/
@@ -44,17 +63,13 @@ and how much are you asking for this house right now
 ~high asking price~
 /so how did you come up with that price?/
 ~after whatever they say~
-/yeah, fair, if i owned it i would like to get the highest number for it as well/
-/but, so let me just tell you that we take the property as it is, which means that you're not going to spend anything updating the property/
-/so with all of that in mind, what would you call a bottom line for this property?/
+/yeah, fair, if i owned it i would like to get the highest number for it as well/. /but, so let me just tell you that we take the property as it is, which means that you're not going to spend anything updating the property/. /so with all of that in mind, what would you call a bottom line for this property?/
 ~still high~
-/so we also cover all the closing coasts, we don't take commission nor realtor fees, and we pay all in cash/
-/like, what is the least you are eager to get in-cash when walking away?/
 * motivation
 alright perfect, but I'm kind of curios about something.
 so i know i called with a cash offer for the property, but why did you consider getting rid of it?
 ~money~
-/yea ofc the price is the most important factor and all, however,/
+/yea ofc the money is the most important factor and all, however,/
   =occupied:= /this is where you live, the property's in a decent condition, so apart from the money factor and me calling you ofc, what makes you open to do so?/
   =rented:= /this is a property that you rent out and you're already making a cash flow passively out of it, so apart from the money factor and me calling you ofc, what makes you open to do so?/
   =vacant:= /since the property is vacant & i can see it is in a really decent area, what made you open to selling while you can rent it out and make some income off of that/
