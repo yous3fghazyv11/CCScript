@@ -83,7 +83,7 @@ and how much are you asking for this house right now?
 
 *still high*
 
-/Alright fair! That sounds reasonable to me. So there's also one more thing that i would like to bring into your attention, so we're cash buyers, which means that we're paying all immediately in cash, which also means that —unlike realtors— there will be no *realtor fees* or *closing coasts*, so basically whatever your asking price is, that is going to be what goes in your pocket when you're walking away from that property/
+/Alright fair! That sounds reasonable to me. So there's also one more thing that i would like to bring into your attention, so we're cash buyers, which means that we're paying all immediately in cash, which also means that —unlike realtors— there will be no **realtor fees** or **closing coasts**, so basically whatever your asking price is, that is going to be what goes in your pocket when you're walking away from that property/
 
 /So, [prospect name], what is the least you are eager to get in-cash when walking away?/
 
@@ -96,7 +96,7 @@ so i know i called with a cash offer for the property, but why did you consider 
 
 *money*
 
-yea ofc the money is the most important factor and all, however
+/yea ofc the money is the most important factor and all, however/
 
 - *occupied:* /this is where you live, the property's in a decent condition, so apart from the money factor and me calling you ofc, what makes you open to do so?/
 - *rented:* /this is a property that you rent out and you're already making a cash flow passively out of it, so apart from the money factor and me calling you ofc, what makes you open to do so?/
