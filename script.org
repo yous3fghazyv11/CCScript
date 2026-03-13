@@ -2,10 +2,10 @@
 *format info:*
 
 in this text i will be using the following:
-- head lines: for specifying the context we're talking about
+- header lines: for specifying the context we're talking about
 - normal text: for the normal agent speech not objection handling (think of stuff like the intro for example or asking about the condition, asking price, etc..)
 - /italic text/: for rebuttals (stuff you reply with when you face an objections)
-- *bold text*: for prospects objections (like *not interested* or *what's your offer*, basically stuff that isn't normal for them to say and that we need to handle)
+- smaller header lines: prospect's objections
 - =coded words=: for notes
 
 ** Intro
